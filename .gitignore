@@ -17,3 +17,4 @@ build/
 # System
 .DS_Store
 *.log
+C_TEST/
